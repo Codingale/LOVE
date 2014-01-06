@@ -3,6 +3,8 @@
 [LOVE]: http://love2d.org
 
 
-Latest examples.love here
+Latest [examples.love here](https://github.com/Codingale/LOVE/raw/master/examples/examples.love "examples.love")
 
-Latest examples.zip  here
+
+Latest [examples.zip here](https://github.com/Codingale/LOVE/raw/master/examples/examples.zip "examples.zip")
+
