@@ -1,4 +1,4 @@
-#[L&Ouml;VE][LOVE] examples
+# [L&Ouml;VE][LOVE] examples
 
 [LOVE]: http://love2d.org
 
